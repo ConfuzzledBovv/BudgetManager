@@ -1,0 +1,2 @@
+# BudgetManager
+Simple budget manager
